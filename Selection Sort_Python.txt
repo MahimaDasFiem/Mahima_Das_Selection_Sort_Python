@@ -15,10 +15,7 @@ for i in range(n-1):
         a[p]=t
 print("The Sorted array is :", a)
 
-
 OUTPUT :
-
-
                 SELECTION SORT                                                                                                  
 Enter the size of array :                                                                                                       
 6                                                                                                                               
